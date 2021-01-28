@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Дарья Харченко](https://up.htmlacademy.ru/javascript/22/user/1448883).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий (sench) Железцов](https://up.htmlacademy.ru/javascript/22/user/983299).
 
 ---
 
