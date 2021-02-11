@@ -9,13 +9,15 @@ const getRandomInt = (min, max) => {
   }
 } // Функция частично скопирована с https://developer.mozilla.org/
 
+getRandomInt();
 
 
-const getRandomFloat = (min, max, shot) => {
+const getRandomFloat = (min, max, decimal) => {
   if (min < 0 || max < 0 || max <= min) {
     return 'Ошибка! Значение max не может быть меньшим или быть равным по отношению к значению min';
   } else {
-    return (Math.random() * (max - min) + min).toFixed(shot);
+    return (Math.random() * (max - min) + min).toFixed(decimal);
   }
 }
 
+getRandomFloat();
